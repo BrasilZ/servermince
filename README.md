@@ -1,0 +1,2 @@
+# servermince
+se
